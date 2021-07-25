@@ -115,3 +115,9 @@ h1{
     height: 300px;
     border-radius: 5%;
 }
+
+.final-border .final-heading {
+    background-color: black;
+    text-align: center;
+    text-emphasis-color: white;
+}
